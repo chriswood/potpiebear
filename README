@@ -1,0 +1,6 @@
+I'm running this on fastcgi out of necessity from my host (I bought a package to support something or another that included a hostgator account, and reddit gold which is awesome). So, there's that. Also, no postgres on hostgator, so I'm using mysql. I'm not sure if I want to pull sqlalchemy in or not. I may just for the ease of bindings. Also I'm not a huge fan of the django orm syntax.
+
+Look out for the pot pie bear. It was a long winter, and he's not f*&^ing around. Also those pesty chupacabras are really starting to piss him off, so he is even more aggressive these days. If you have your pie, you're cool though so don't sweat it too much, just be prepared.
+
+Chris Wood
+Founding member, Pot Pie Bear Awareness Team
