@@ -1,8 +1,8 @@
 from django.conf.urls.defaults import *
 from potpiebear.ppbapp.views import *
 # Uncomment the next two lines to enable the admin:
-# from django.contrib import admin
-# admin.autodiscover()
+from django.contrib import admin
+admin.autodiscover()
 
 
 urlpatterns = patterns('',
